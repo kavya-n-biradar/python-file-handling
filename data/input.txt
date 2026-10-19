@@ -1,0 +1,4 @@
+Python is a popular programming language.
+It is easy to read and fun to learn.
+Files let a program keep data after it stops running.
+Reading and writing files is a core skill for every developer.
